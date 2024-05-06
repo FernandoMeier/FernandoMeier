@@ -1,11 +1,6 @@
 <h1 align="center">Hi! My name is Fernando</h1>
 <h3 align="center">A passionate software developer from Zürich Switzerland</h3>
 
-<p align="center">
-Visitor Count:<br>
-<img src="https://profile-counter.glitch.me/FernandoMeier/count.svg" width="180px">
-</p>
-
 - 🔭 I’m currently working on [quizlet4all, a free vocab learning tool.](https://quizlet4all.netlify.app)
 
 - 👨‍💻 Take a look at my web-portfolio, available at [https://portfolio-fernando.vercel.app](https://portfolio-fernando.vercel.app)
