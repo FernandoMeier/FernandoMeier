@@ -1,8 +1,6 @@
 <h1 align="center">Hi! My name is Fernando</h1>
 <h3 align="center">A passionate software developer from Zürich Switzerland</h3>
 
-- 🔭 I’m currently working on [quizlet4all, a free vocab learning tool.](https://quizlet4all.netlify.app)
-
 - 👨‍💻 Take a look at my web-portfolio, available at [https://portfolio-fernando.vercel.app](https://portfolio-fernando.vercel.app)
 
 - 📫 How to reach me **fernando_meier@outlook.de**
